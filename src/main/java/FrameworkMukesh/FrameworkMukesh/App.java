@@ -12,5 +12,8 @@ public class App
         
         
         System.out.println("to add more and try brancginh");
+        
+        System.out.println("from y person to insert new commands");
+        System.out.println("to intergate more code");
     }
 }
